@@ -1,0 +1,15 @@
+DOUCHE;;Un jet d'eau pour se laver le corps en restant debout.
+FRIANDISE;;Une petite douceur sucrée qu'on aime manger comme un bonbon.
+DICTEE;;un exercice de classe où le maître ou la maîtresse lit un texte et les élèves l'écrivent sans faire de fautes.
+DENT;;Une partie dure et blanche dans la bouche qui sert à mâcher les aliments.
+BLANC;;C'est la couleur de la neige ou du lait. C'est le contraire de noir.
+DEJA;;Un mot pour dire qu'une chose s'est passé avant ou plus tôt que prévu.
+BOUCHE;;La partie du visage qui sert à manger, parler et sourire.
+BRAS;;La partie du corps qui va de l'épaule jusqu'à la main.
+BRUIT;;Un son que l'on entend avec ses oreilles, parfois fort ou gênant.
+TABLE;;Un meuble plat avec des pieds pour poser son travail ou une assiette.
+DEDANS;;A l'intérieur. C'est le contraire de "dehors".
+DOUBLER;;Dépasser quelqu'un ou quelque chose, ou rendre deux fois plus grand.
+DANS;;Un mot qui indique qu'on est à l'intérieur de quelque chose.
+NUIT;;Le moment de la journée où il fait noir dehors et où l'on dort.
+BORD;;Le côté au bout d'une chose.
